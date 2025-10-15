@@ -1,0 +1,10 @@
+dbt-snowflake
+snowflake-connector-python
+pandas
+numpy
+prophet
+matplotlib
+streamlit
+openai
+python-dotenv
+faker

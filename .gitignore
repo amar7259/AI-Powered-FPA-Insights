@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Data
+data/raw/*.csv
+data/processed/*.csv
+
+# IDE / OS
+.DS_Store
+.vscode/
