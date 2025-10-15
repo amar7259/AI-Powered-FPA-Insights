@@ -5,6 +5,7 @@ numpy
 prophet
 matplotlib
 streamlit
-openai
 python-dotenv
 faker
+mistralai
+tabulate
