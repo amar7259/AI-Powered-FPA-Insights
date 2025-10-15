@@ -25,3 +25,4 @@ The platform lets finance analysts:
 
 ## 🧩 Project Structure
 
+# contributor
